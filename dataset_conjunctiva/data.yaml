@@ -1,0 +1,8 @@
+path: D:/onedrieve personal/Desktop/first/goat_eye_detection/dataset_conjunctiva
+
+train: images/train
+val: images/valid
+test: images/test
+
+names:
+  0: conjunctiva

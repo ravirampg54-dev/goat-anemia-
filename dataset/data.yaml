@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['goat-eye-anemia-22222222']
+
+roboflow:
+  workspace: raviram-p-g
+  project: goat-eye-anemia-22222222
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/raviram-p-g/goat-eye-anemia-22222222/1
